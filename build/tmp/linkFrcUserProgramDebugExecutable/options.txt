@@ -1,6 +1,6 @@
 -o
-"/Users/floyd/2023-2 ROBOTICS/GettingStarted/build/exe/frcUserProgram/debug/frcUserProgram"
-"/Users/floyd/2023-2 ROBOTICS/GettingStarted/build/objs/frcUserProgram/debug/frcUserProgramCpp/9760xtgdau9jsoxxi90ozrpww/Robot.o"
+"/Users/floyd/2023-2 ROBOTICS/bot/build/exe/frcUserProgram/debug/frcUserProgram"
+"/Users/floyd/2023-2 ROBOTICS/bot/build/objs/frcUserProgram/debug/frcUserProgramCpp/9760xtgdau9jsoxxi90ozrpww/Robot.o"
 /Users/floyd/.gradle/caches/transforms-3/89b4a22e1f3640fbc5b815e7525d1de7/transformed/wpilibNewCommands-cpp-2023.2.1-linuxathenadebug/linux/athena/shared/libwpilibNewCommandsd.so
 /Users/floyd/.gradle/caches/transforms-3/7ca0127eac12dbcd417f8e637797ef14/transformed/wpilibc-cpp-2023.2.1-linuxathenadebug/linux/athena/shared/libwpilibcd.so
 /Users/floyd/.gradle/caches/transforms-3/3c09ce8e2692d3d43fcd2c9fc60888d7/transformed/ntcore-cpp-2023.2.1-linuxathenadebug/linux/athena/shared/libntcored.so

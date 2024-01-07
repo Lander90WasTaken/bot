@@ -28,7 +28,7 @@
       "/Users/floyd/.gradle/caches/transforms-3/67ad57b8cd6ee2868f5fdac2835c2204/transformed/cscore-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/43281040e97af0328f3181f7d2ab750b/transformed/apriltag-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/6d16f997d421c2a0fcd0bb9649d5c97a/transformed/opencv-cpp-4.6.0-4-headers/",
-      "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/",
+      "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/",
       "/Users/floyd/.gradle/caches/transforms-3/d7dfae0021e9a7de7cc809fed758c980/transformed/wpilibNewCommands-cpp-2023.2.1-sources/",
       "/Users/floyd/.gradle/caches/transforms-3/24636dc961782000151132959e3b5423/transformed/wpilibc-cpp-2023.2.1-sources/",
       "/Users/floyd/.gradle/caches/transforms-3/e657b82a624d0ae446a4bf50b6175e8b/transformed/ntcore-cpp-2023.2.1-sources/",
@@ -69,7 +69,7 @@
       "/Users/floyd/.gradle/caches/transforms-3/67ad57b8cd6ee2868f5fdac2835c2204/transformed/cscore-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/43281040e97af0328f3181f7d2ab750b/transformed/apriltag-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/6d16f997d421c2a0fcd0bb9649d5c97a/transformed/opencv-cpp-4.6.0-4-headers/",
-      "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+      "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
     ],
     "binaries": [
       {
@@ -78,7 +78,7 @@
           {
             "source": {
               "srcDirs": [
-                "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/cpp/"
+                "/Users/floyd/2023-2 ROBOTICS/bot/src/main/cpp/"
               ],
               "includes": [
                 "**/*.cpp",
@@ -88,7 +88,7 @@
             },
             "exportedHeaders": {
               "srcDirs": [
-                "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+                "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
               ],
               "includes": [],
               "excludes": []
@@ -127,7 +127,7 @@
           "/Users/floyd/.gradle/caches/transforms-3/67ad57b8cd6ee2868f5fdac2835c2204/transformed/cscore-cpp-2023.2.1-headers/",
           "/Users/floyd/.gradle/caches/transforms-3/43281040e97af0328f3181f7d2ab750b/transformed/apriltag-cpp-2023.2.1-headers/",
           "/Users/floyd/.gradle/caches/transforms-3/6d16f997d421c2a0fcd0bb9649d5c97a/transformed/opencv-cpp-4.6.0-4-headers/",
-          "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+          "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
         ],
         "sharedLibrary": false,
         "executable": true
@@ -137,7 +137,7 @@
       {
         "source": {
           "srcDirs": [
-            "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/cpp/"
+            "/Users/floyd/2023-2 ROBOTICS/bot/src/main/cpp/"
           ],
           "includes": [
             "**/*.cpp",
@@ -169,7 +169,7 @@
       {
         "source": {
           "srcDirs": [
-            "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+            "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
           ],
           "includes": [],
           "excludes": []
@@ -229,7 +229,7 @@
       "/Users/floyd/.gradle/caches/transforms-3/67ad57b8cd6ee2868f5fdac2835c2204/transformed/cscore-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/43281040e97af0328f3181f7d2ab750b/transformed/apriltag-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/6d16f997d421c2a0fcd0bb9649d5c97a/transformed/opencv-cpp-4.6.0-4-headers/",
-      "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/",
+      "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/",
       "/Users/floyd/.gradle/caches/transforms-3/d7dfae0021e9a7de7cc809fed758c980/transformed/wpilibNewCommands-cpp-2023.2.1-sources/",
       "/Users/floyd/.gradle/caches/transforms-3/24636dc961782000151132959e3b5423/transformed/wpilibc-cpp-2023.2.1-sources/",
       "/Users/floyd/.gradle/caches/transforms-3/e657b82a624d0ae446a4bf50b6175e8b/transformed/ntcore-cpp-2023.2.1-sources/",
@@ -270,7 +270,7 @@
       "/Users/floyd/.gradle/caches/transforms-3/67ad57b8cd6ee2868f5fdac2835c2204/transformed/cscore-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/43281040e97af0328f3181f7d2ab750b/transformed/apriltag-cpp-2023.2.1-headers/",
       "/Users/floyd/.gradle/caches/transforms-3/6d16f997d421c2a0fcd0bb9649d5c97a/transformed/opencv-cpp-4.6.0-4-headers/",
-      "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+      "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
     ],
     "binaries": [
       {
@@ -279,7 +279,7 @@
           {
             "source": {
               "srcDirs": [
-                "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/cpp/"
+                "/Users/floyd/2023-2 ROBOTICS/bot/src/main/cpp/"
               ],
               "includes": [
                 "**/*.cpp",
@@ -289,7 +289,7 @@
             },
             "exportedHeaders": {
               "srcDirs": [
-                "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+                "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
               ],
               "includes": [],
               "excludes": []
@@ -327,7 +327,7 @@
           "/Users/floyd/.gradle/caches/transforms-3/67ad57b8cd6ee2868f5fdac2835c2204/transformed/cscore-cpp-2023.2.1-headers/",
           "/Users/floyd/.gradle/caches/transforms-3/43281040e97af0328f3181f7d2ab750b/transformed/apriltag-cpp-2023.2.1-headers/",
           "/Users/floyd/.gradle/caches/transforms-3/6d16f997d421c2a0fcd0bb9649d5c97a/transformed/opencv-cpp-4.6.0-4-headers/",
-          "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+          "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
         ],
         "sharedLibrary": false,
         "executable": true
@@ -337,7 +337,7 @@
       {
         "source": {
           "srcDirs": [
-            "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/cpp/"
+            "/Users/floyd/2023-2 ROBOTICS/bot/src/main/cpp/"
           ],
           "includes": [
             "**/*.cpp",
@@ -368,7 +368,7 @@
       {
         "source": {
           "srcDirs": [
-            "/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include/"
+            "/Users/floyd/2023-2 ROBOTICS/bot/src/main/include/"
           ],
           "includes": [],
           "excludes": []

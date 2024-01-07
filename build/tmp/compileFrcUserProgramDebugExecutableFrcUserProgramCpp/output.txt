@@ -1,4 +1,4 @@
-See file:///Users/floyd/2023-2%20ROBOTICS/GettingStarted/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+See file:///Users/floyd/2023-2%20ROBOTICS/bot/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
 compiling Robot.cpp successful.
 
-Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///Users/floyd/2023-2%20ROBOTICS/GettingStarted/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///Users/floyd/2023-2%20ROBOTICS/bot/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.

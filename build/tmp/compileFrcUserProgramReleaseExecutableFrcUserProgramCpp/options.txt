@@ -15,7 +15,7 @@ c++
 -O2
 -nostdinc
 -I
-"/Users/floyd/2023-2 ROBOTICS/GettingStarted/src/main/include"
+"/Users/floyd/2023-2 ROBOTICS/bot/src/main/include"
 -I
 /Users/floyd/.gradle/caches/transforms-3/fb3a5850c3cf9e8e2d336f29527f668d/transformed/wpilibNewCommands-cpp-2023.2.1-headers
 -I

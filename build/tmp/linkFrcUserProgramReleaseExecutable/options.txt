@@ -1,6 +1,6 @@
 -o
-"/Users/floyd/2023-2 ROBOTICS/GettingStarted/build/exe/frcUserProgram/release/frcUserProgram"
-"/Users/floyd/2023-2 ROBOTICS/GettingStarted/build/objs/frcUserProgram/release/frcUserProgramCpp/9760xtgdau9jsoxxi90ozrpww/Robot.o"
+"/Users/floyd/2023-2 ROBOTICS/bot/build/exe/frcUserProgram/release/frcUserProgram"
+"/Users/floyd/2023-2 ROBOTICS/bot/build/objs/frcUserProgram/release/frcUserProgramCpp/9760xtgdau9jsoxxi90ozrpww/Robot.o"
 /Users/floyd/.gradle/caches/transforms-3/b769ae7ba5a05ff0767e0174dc4ba4a6/transformed/wpilibNewCommands-cpp-2023.2.1-linuxathena/linux/athena/shared/libwpilibNewCommands.so
 /Users/floyd/.gradle/caches/transforms-3/fdf3a2130fb915abdc1d94f98bdd75c7/transformed/wpilibc-cpp-2023.2.1-linuxathena/linux/athena/shared/libwpilibc.so
 /Users/floyd/.gradle/caches/transforms-3/c0b30ebd22f245c97fbf7f33c775ffae/transformed/ntcore-cpp-2023.2.1-linuxathena/linux/athena/shared/libntcore.so
